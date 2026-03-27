@@ -1,0 +1,14 @@
+{
+  "name": "BQ to Mongo Flex Template",
+  "description": "Test pipeline for BigQuery to MongoDB",
+  "parameters": [
+    {
+      "name": "inputTable",
+      "label": "BigQuery Table"
+    },
+    {
+      "name": "mongoUri",
+      "label": "Mongo URI"
+    }
+  ]
+}
